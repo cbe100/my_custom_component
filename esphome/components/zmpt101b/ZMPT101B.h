@@ -1,6 +1,7 @@
 #ifndef ZMPT101B_h
 #define ZMPT101B_h
 
+#include "esphome.h"
 #include <Arduino.h>
 
 #define DEFAULT_FREQUENCY 50.0f
